@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../flash-card/flash-card"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"powershell.cwd": "flash_card",
+		"liveServer.settings.multiRootWorkspaceName": "flash-card"
+	}
+}
